@@ -14,6 +14,10 @@ a {
   color: #113c00;
 }
 
+a:focus {
+  outline: 3px solid #000;
+}
+
 a:hover {
   color: #113c00;
 }
